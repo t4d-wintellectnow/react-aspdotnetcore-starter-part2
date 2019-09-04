@@ -4,11 +4,11 @@ This project is intended for use with the [WintellectNOW](https://www.wintellect
 
 ## Links to the Video Courses
 
-- [React 16 + ASP.NET Core 2.2: Building a Single Page Application - Part 1](#)
-- [React 16 + ASP.NET Core 2.2: Integrating React and ASP.NET Core - Part 2](#)
-- [React 16 + ASP.NET Core 2.2: Entity Framework Core - Part 3](#)
-- [React 16 + ASP.NET Core 2.2: Components and Data - Part 4](#)
-- [React 16 + ASP.NET Core 2.2: Advanced Component Techniques - Part 5](#)
+- [React 16 + ASP.NET Core 2.2: Building a Single Page Application - Part 1](https://www.wintellectnow.com/Videos/Watch?videoId=building-a-single-page-application-with-react-16-and-aspdotnet-core-2.2)
+- [React 16 + ASP.NET Core 2.2: Integrating React and ASP.NET Core - Part 2](https://www.wintellectnow.com/Videos/Watch?videoId=integrating-react-and-aspdotnet-core)
+- [React 16 + ASP.NET Core 2.2: Entity Framework Core - Part 3](https://www.wintellectnow.com/Videos/Watch?videoId=integrating-entity-framework-core-with-react-and-aspdotnet-core)
+- [React 16 + ASP.NET Core 2.2: Collecting and Saving Data - Part 4](#)
+- [React 16 + ASP.NET Core 2.2: Components and Data - Part 5](#)
 
 ## Getting the Project
 
