@@ -12,7 +12,7 @@ This project is intended for use with the [WintellectNOW](https://www.wintellect
 
 ## Getting the Project
 
-1. Install [Node.js version 10.16](https://nodejs.org/dist/v10.16.0/) and [.NET Core SDK version 2.2.3](https://dotnet.microsoft.com/download/dotnet-core/2.2) for your computer. Also, install [Visual Studio Code](https://code.visualstudio.com/) on your computer. All three installs are supported on Windows, MacOS and popular Linux distros.
+1. Install [Node.js version 10.16](https://nodejs.org/dist/v10.16.3/) and [.NET Core SDK version 2.2](https://dotnet.microsoft.com/download/dotnet-core/2.2) for your computer. Also, install [Visual Studio Code](https://code.visualstudio.com/) on your computer. All three installs are supported on Windows, MacOS and popular Linux distros.
 
 2. Either clone the project or download the source zip. To clone the project [Git](https://git-scm.com/downloads) will need to be installed on your machine. If you download the source zip, you will need to unzip the source with the appropriate program on your computer. If you do not have an unzipping program, click here to download [7-Zip](https://www.7-zip.org) for Windows and Linux or [Keka](https://www.keka.io) for MacOS.
 
